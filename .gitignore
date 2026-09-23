@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MicroPython / build artefacts
+*.uf2
+build/
+
+# Large raw captures — commit processed data and representative extracts instead.
+# If you need to commit a big file, say so in your report.
+*.pcap
