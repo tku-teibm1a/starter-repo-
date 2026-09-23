@@ -24,7 +24,7 @@ Both members must commit under their **own** GitHub account. If you pair-program
 
 The assignment guide for each week lives in the **course repository**, not here:
 
-👉 **[Assignment guides and the Submission Guide](https://github.com/ORG/teibm1a-course)**
+👉 **[Assignment guides and the Submission Guide](https://github.com/tku-teibm1a/teibm1a-course)**
 
 That page is kept up to date during the semester. This repository is only for your own work.
 
